@@ -1,3 +1,8 @@
 stuffy
+line inserted by o
 more stuff
-that's all
+                more stuff
+        tthatthat's all
+        hthat's allat's all
+        tthatthat's all
+hthat's allat's all
